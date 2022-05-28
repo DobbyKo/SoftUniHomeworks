@@ -1,0 +1,13 @@
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.exe
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.deps.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.runtimeconfig.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.runtimeconfig.dev.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.AssemblyInfo.cs
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.genruntimeconfig.cache

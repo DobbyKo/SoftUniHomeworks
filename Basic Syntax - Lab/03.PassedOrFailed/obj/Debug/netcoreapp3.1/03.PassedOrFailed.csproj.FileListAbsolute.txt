@@ -1,0 +1,14 @@
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.exe
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.deps.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.runtimeconfig.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.runtimeconfig.dev.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.csproj.AssemblyReference.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.AssemblyInfo.cs
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.exe
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.deps.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.dev.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfoInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfo.cs
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.genruntimeconfig.cache

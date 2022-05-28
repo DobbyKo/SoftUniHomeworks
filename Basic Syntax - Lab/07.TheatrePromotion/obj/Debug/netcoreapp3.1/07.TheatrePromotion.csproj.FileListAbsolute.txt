@@ -1,0 +1,13 @@
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.exe
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.deps.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.runtimeconfig.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.runtimeconfig.dev.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.AssemblyInfo.cs
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.genruntimeconfig.cache

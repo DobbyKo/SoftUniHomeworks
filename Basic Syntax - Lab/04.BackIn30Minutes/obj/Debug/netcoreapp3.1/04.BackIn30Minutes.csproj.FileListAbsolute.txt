@@ -1,0 +1,13 @@
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.exe
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.deps.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.runtimeconfig.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.runtimeconfig.dev.json
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.AssemblyInfo.cs
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.dll
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.pdb
+C:\Users\d.kozhuharova\source\repos\Fundamentals2022\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.genruntimeconfig.cache
